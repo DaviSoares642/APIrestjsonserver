@@ -46,7 +46,7 @@ O id no banco de dados é primary key, então não pode repetir a numeração
 
 Dentro do método primário no arquivo "server.js", poderá modificar os minutos para testar>  if (minutes <= 10) 
 
-Não consegui retornar o valor json
+Caso a inserção tenha dado certo, o retorno será o próprio objeto em json, caso negue pelo tempo, retornará na mensagem "403 forbidden"
 
 
 

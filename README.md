@@ -46,7 +46,9 @@ OBS:
 
 O id no banco de dados é primary key, então não pode repetir a numeração
 
-Dentro do método principal, poderá modificar os minutos para testar>  if (minutes <= 10) 
+Dentro do método primário no arquivo "server.js", poderá modificar os minutos para testar>  if (minutes <= 10) 
+
+
 
 
 

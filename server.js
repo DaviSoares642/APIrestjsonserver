@@ -8,6 +8,11 @@ const request = require("request");
 //Uso padrão middlewares
 server.use(middlewares);
 
+// Adiciona uma rota customizada em json-server
+server.get("/echo", (req, res) => {
+  res.jsonp(req.query);
+});
+
 //Para inserir POST,PUT e PATCH é necessário o body-parser
 server.use(jsonServer.bodyParser);
 server.use((req, res, next) => {

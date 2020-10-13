@@ -6,7 +6,7 @@ Caso queira testar pelo PostMan
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 
 
-Ao clonar o repositório, 3 arquivos na pasta> db.json > esse arquivo será a database
+Ao clonar o repositório, terá 3 arquivos na pasta> db.json > esse arquivo será a database
                                      package.json >esse arquivo será necessário para baixar as dependências do node.js                                     
                                      server.js > sera o body da API
 

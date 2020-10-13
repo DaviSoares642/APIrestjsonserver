@@ -15,14 +15,14 @@ Será necessários 3 arquivos na pasta> db.json > esse arquivo será a database
 
 Instalando o Node.js no json-server
 
-Use esse comando no terminal>  npm install
+Use esse comando no terminal $ npm install
 
 Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 
 
 Integrando banco de dados
 
-No terminal use esse comando para iniciar o banco de dados> json-server --watch db.json
+No terminal use esse comando para iniciar o banco de dados $ json-server --watch db.json
 
 Também no terminal irá mostrar seu localhost, exemplo "http://localhost:3000/product", nesse exemplo foi feito uma subcategoria "product"
 
@@ -32,9 +32,7 @@ Na página inicial do Postman, clique em "Create a request" e cole o localhost e
 
 Iniciando a API e inserindo request
 
-Execute o arquivo "server.js" com o Visual Studio Code e esse arquivo conterá o corpo da API
-
-Após a construção da API, no terminal cole este comando para rodar o json-server> node server.js 
+Para iniciar a API no terminal cole esse comando para rodar o json-server $ node server.js 
 
 Para inserir uma request, ao lado do localhost, selecione "POST", logo abaixo em "body", depois em "Raw" e selecione a extensão "JSON"
 
@@ -47,6 +45,8 @@ OBS:
 O id no banco de dados é primary key, então não pode repetir a numeração
 
 Dentro do método primário no arquivo "server.js", poderá modificar os minutos para testar>  if (minutes <= 10) 
+
+Não consegui o retorno
 
 
 

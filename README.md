@@ -19,6 +19,8 @@ No terminal, no interior da pasta APIrestjsonserver, execute esses comandos:
 
 Para instalar o npm $ apt install npm
 
+Para montar a API $ npm install
+
 Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 
 

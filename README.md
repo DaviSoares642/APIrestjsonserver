@@ -21,13 +21,13 @@ No terminal use esse comando para iniciar o banco de dados> json-server --watch 
 
 Também no terminal irá mostrar seu localhost, exemplo " http://localhost:3000/product", nesse exemplo foi feito uma subcategoria "product"
 
-Após o login no site Postman, clique em "Create a request" e cole o localhost em "Entrer request URL"
+Na página inicial do Postman, clique em "Create a request" e cole o localhost em "Entrer request URL"
 
 
 
 Criando a API e inserindo request
 
-Na mesma pasta onde está o "db.json",criará um arquivo com nome e extensão "server.js"
+Na mesma pasta onde está o "db.json",crie um arquivo com nome e extensão "server.js"
 
 Execute o arquivo "server.js" com o Visual Studio Code e esse arquivo conterá o corpo da API
 
@@ -36,7 +36,7 @@ Após a construção da API, no terminal cole este comando para rodar o json-ser
 Para inserir uma request, ao lado do localhost, selecione "POST", logo abaixo em "body", depois em "Raw" e selecione a extensão "JSON"
 
 
-Esse comando é para inserir uma request direto no terminal > curl -XPOST http://localhost:3000/product -H 'Content-type:application/json' -d '{"name": "mesa"}'
+Esse Curl de comando é para inserir uma request direto no terminal > curl -XPOST http://localhost:3000/product -H 'Content-type:application/json' -d '{"name": "mesa"}'
 
 
 OBS:

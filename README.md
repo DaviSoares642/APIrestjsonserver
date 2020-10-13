@@ -8,9 +8,17 @@ Node.js> https://nodejs.org/en/
 
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 
+
+Será necessários 3 arquivos na pasta> db.json > esse arquivo será a database
+                                     package.json >esse arquivo será necessário para baixar as dependências do node.js
+                                     server.js > sera o body da API
+
+
 Instalando o Node.js no json-server
 
-para instalar, cole esse comando no terminal>  npm install -g json-server
+Tendo o arquivo package.json e colado a função, use esse comando no terminal>  npm install
+
+Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 
 
 Integrando banco de dados

@@ -1,7 +1,7 @@
 Davi Soares
 API Rest fake json-server
 
-site de banco de dadas grátis
+Caso queira acessar pelo PostMan
 
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 

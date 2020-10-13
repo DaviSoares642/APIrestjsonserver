@@ -38,7 +38,7 @@ Iniciando a API e inserindo request
 
 Para iniciar a API, no terminal cole esse comando para rodar o json-server $ node server.js 
 
-Para inserir uma request, ao lado do localhost, selecione "POST", logo abaixo em "body", depois em "Raw" e selecione a extensão "JSON"
+Para inserir uma request pelo PostMan, ao lado do localhost, selecione "POST", logo abaixo em "body", depois em "Raw" e selecione a extensão "JSON"
 
 
 Esse Curl de comando é para inserir uma request direto no terminal $ curl -XPOST http://localhost:3000/product -H 'Content-type:application/json' -d '{"name": "mesa"}'

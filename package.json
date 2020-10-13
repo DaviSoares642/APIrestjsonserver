@@ -1,5 +1,5 @@
 {
-  "name": "json-server-test",
+  "name": "json-server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

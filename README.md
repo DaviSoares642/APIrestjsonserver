@@ -23,19 +23,15 @@ Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 
 Integrando banco de dados
 
-Crie um arquivo em e extensão "db.json"
-
 No terminal use esse comando para iniciar o banco de dados> json-server --watch db.json
 
-Também no terminal irá mostrar seu localhost, exemplo " http://localhost:3000/product", nesse exemplo foi feito uma subcategoria "product"
+Também no terminal irá mostrar seu localhost, exemplo "http://localhost:3000/product", nesse exemplo foi feito uma subcategoria "product"
 
 Na página inicial do Postman, clique em "Create a request" e cole o localhost em "Entrer request URL"
 
 
 
 Criando a API e inserindo request
-
-Na mesma pasta onde está o "db.json",crie um arquivo com nome e extensão "server.js"
 
 Execute o arquivo "server.js" com o Visual Studio Code e esse arquivo conterá o corpo da API
 

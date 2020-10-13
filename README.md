@@ -8,9 +8,9 @@ Node.js> https://nodejs.org/en/
 
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 
-Instalando o Node.js
+Instalando o Node.js no json-server
 
-para instalar Node.js, cole esse comando no terminal>  npm install -g json-server
+para instalar, cole esse comando no terminal>  npm install -g json-server
 
 
 Integrando banco de dados

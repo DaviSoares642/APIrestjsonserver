@@ -3,7 +3,9 @@ API Rest fake json-server
 
 Ferramentas necessárias para download e sites
 Visual Studio Code> https://code.visualstudio.com/download
+
 Node.js> https://nodejs.org/en/ 
+
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 
 Instalando o Node.js

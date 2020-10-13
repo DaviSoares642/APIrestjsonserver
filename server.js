@@ -40,7 +40,7 @@ server.use((req, res, next) => {
 // Rota padrão do usuário
 server.use(router);
 server.listen(3000, () => {
-  console.log("JSON Server is running");
+  console.log("JSON está rodando");
 });
 
 var jsonData = "";

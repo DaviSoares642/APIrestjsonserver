@@ -1,8 +1,7 @@
 Davi Soares
 API Rest fake json-server
 
-Ferramentas necessárias para download e sites
-Visual Studio Code> https://code.visualstudio.com/download
+Ferramentas necessárias para download e site
 
 Node.js> https://nodejs.org/en/ 
 
@@ -46,6 +45,10 @@ Esse Curl de comando é para inserir uma request direto no terminal > curl -XPOS
 OBS:
 
 O id no banco de dados é primary key, então não pode repetir a numeração
+
+Dentro do método principal, pode modificar os minutos para testar>  if (minutes <= 10) 
+
+
 
 
 

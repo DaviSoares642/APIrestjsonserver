@@ -1,7 +1,7 @@
 Davi Soares
 API Rest fake json-server
 
-Ferramentas necessárias para download e site
+Ferramentas necessária para download e site
 
 Node.js> https://nodejs.org/en/ 
 

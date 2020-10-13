@@ -15,9 +15,9 @@ package.json >esse arquivo será necessário para baixar as dependências do nod
 server.js > sera o body da API
 
 
-Para montar a API com o Node.js
+No terminal, no interior da pasta APIrestjsonserver, execute esses comandos:
 
-Use esse comando no terminal $ npm install
+Para instalar o npm $ apt install npm
 
 Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 

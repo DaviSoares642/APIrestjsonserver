@@ -1,7 +1,7 @@
 Davi Soares
 API Rest fake json-server
 
-Caso queira acessar pelo PostMan
+Caso queira testar pelo PostMan
 
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 

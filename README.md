@@ -30,7 +30,7 @@ Na página inicial do Postman, clique em "Create a request" e cole o localhost e
 
 
 
-Criando a API e inserindo request
+Iniciando a API e inserindo request
 
 Execute o arquivo "server.js" com o Visual Studio Code e esse arquivo conterá o corpo da API
 

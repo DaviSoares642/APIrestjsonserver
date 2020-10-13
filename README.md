@@ -1,9 +1,7 @@
 Davi Soares
 API Rest fake json-server
 
-Ferramentas necessária para download e site
-
-Node.js> https://nodejs.org/en/ 
+site de banco de dadas grátis
 
 Web.Postman(é necessário realizar o login para utilizar)> https://web.postman.co/build/workspace/My-Workspace
 

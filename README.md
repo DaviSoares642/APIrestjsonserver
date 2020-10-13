@@ -16,7 +16,7 @@ Será necessários 3 arquivos na pasta> db.json > esse arquivo será a database
 
 Instalando o Node.js no json-server
 
-Tendo o arquivo package.json e colado a função, use esse comando no terminal>  npm install
+Tendo criado o arquivo package.json, abra com o Visual Studio Code e cole as requisições, depois use esse comando no terminal>  npm install
 
 Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 

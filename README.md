@@ -15,7 +15,7 @@ Será necessários 3 arquivos na pasta> db.json > esse arquivo será a database
 
 Instalando o Node.js no json-server
 
-Tendo criado o arquivo package.json, abra com o Visual Studio Code e cole as requisições, depois use esse comando no terminal>  npm install
+Use esse comando no terminal>  npm install
 
 Uma pasta "node_modules" e um arquivo "package-lock.json" serão criados
 
@@ -46,7 +46,7 @@ OBS:
 
 O id no banco de dados é primary key, então não pode repetir a numeração
 
-Dentro do método principal, pode modificar os minutos para testar>  if (minutes <= 10) 
+Dentro do método principal, poderá modificar os minutos para testar>  if (minutes <= 10) 
 
 
 

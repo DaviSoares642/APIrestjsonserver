@@ -15,7 +15,7 @@ package.json >esse arquivo será necessário para baixar as dependências do nod
 server.js > sera o body da API
 
 
-Instalando o Node.js no json-server
+Para montar a API com o Node.js
 
 Use esse comando no terminal $ npm install
 

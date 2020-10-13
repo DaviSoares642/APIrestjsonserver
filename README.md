@@ -46,7 +46,7 @@ Para inserir uma request pelo direto no terminal $ curl -XPOST http://localhost:
 
 OBS:
 
-O id no banco de dados é primary key, então não pode repetir a numeração
+O id no banco de dados é primary key, então não pode repetir a numeração, por isso, no corpo do json, tem apenas o "name"
 
 Dentro do método primário no arquivo "server.js", poderá modificar os minutos para testar>  if (minutes <= 10) 
 

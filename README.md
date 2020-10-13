@@ -32,12 +32,12 @@ Na página inicial do Postman, clique em "Create a request" e cole o localhost e
 
 Iniciando a API e inserindo request
 
-Para iniciar a API no terminal cole esse comando para rodar o json-server $ node server.js 
+Para iniciar a API, no terminal cole esse comando para rodar o json-server $ node server.js 
 
 Para inserir uma request, ao lado do localhost, selecione "POST", logo abaixo em "body", depois em "Raw" e selecione a extensão "JSON"
 
 
-Esse Curl de comando é para inserir uma request direto no terminal > curl -XPOST http://localhost:3000/product -H 'Content-type:application/json' -d '{"name": "mesa"}'
+Esse Curl de comando é para inserir uma request direto no terminal $ curl -XPOST http://localhost:3000/product -H 'Content-type:application/json' -d '{"name": "mesa"}'
 
 
 OBS:
@@ -46,7 +46,7 @@ O id no banco de dados é primary key, então não pode repetir a numeração
 
 Dentro do método primário no arquivo "server.js", poderá modificar os minutos para testar>  if (minutes <= 10) 
 
-Não consegui o retorno
+Não consegui retornar o valor json
 
 
 
